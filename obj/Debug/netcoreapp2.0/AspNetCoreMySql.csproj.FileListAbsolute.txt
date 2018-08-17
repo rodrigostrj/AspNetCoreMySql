@@ -1,0 +1,13 @@
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\bin\Debug\netcoreapp2.0\app.db
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.deps.json
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.runtimeconfig.json
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.runtimeconfig.dev.json
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.dll
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.pdb
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.csprojAssemblyReference.cache
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.csproj.CoreCompileInputs.cache
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.AssemblyInfoInputs.cache
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.AssemblyInfo.cs
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.dll
+D:\Documentos\Documentos\Projetos\Docker\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.pdb
