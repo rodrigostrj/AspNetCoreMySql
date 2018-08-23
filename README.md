@@ -12,7 +12,7 @@
 	- Verificar a aplicação funcionando na porta padrão 5000:
 		=> dotnet run 
 	
-=> CONFIGURANDO O ACESSO AO MySql:
+=> CONFIGURANDO O ACESSO AO MySQL:
 
 	- A aplicação está preparada para acessar uma base MySQL. Verifique a classe Startup;
 	
