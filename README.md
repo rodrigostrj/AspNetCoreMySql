@@ -1,8 +1,6 @@
 # AspNetCoreMySql
-Asp.net Core Sample application with MySQL Database working in docker container
 
-
-Aplicação .Net Core 2.0 acessando uma base MySQL em um container Docker
+# Aplicação .Net Core 2.0 acessando uma base MySQL em um container Docker
 
 => CRIANDO A APLICAÇÃO .Net Core 2.0
 
@@ -30,4 +28,4 @@ Aplicação .Net Core 2.0 acessando uma base MySQL em um container Docker
 		=> Acessar a aplicação (http://localhost:5000/) e cadastrar um usuário
 		
 	
-=============================================
+
